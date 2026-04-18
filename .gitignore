@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+reports/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained model artifact
+challenge/trained_model.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
