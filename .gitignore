@@ -29,5 +29,9 @@ challenge/trained_model.pkl
 .vscode/
 .idea/
 
+# GCP credentials (never commit)
+*.json
+!package.json
+
 # macOS
 .DS_Store
